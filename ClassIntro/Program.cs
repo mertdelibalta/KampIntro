@@ -6,7 +6,7 @@ namespace ClassIntro
     {
         static void Main(string[] args)
         {
-            Kurs kurs5 = new Kurs();
+            Kurs kurs5 = new Kurs();s
 
 
             Kurs kurs1 = new Kurs();
